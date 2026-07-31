@@ -4,7 +4,6 @@
 	"main": [],
 	"ignore": [],
 	"dependencies": {
-		"jquery": ">=1.7.0",
-		"datatables": "^2"
+		"datatables": "^3"
 	}
 }
