@@ -59,7 +59,7 @@
  * allow _every_ parameter (I wouldn't recommend it) you can use `all`
  * instead of an array.
  *
- * @name        LengthLinks
+ * @name        DeepLink
  * @summary     Deep linking options parsing support for DataTables
  * @file        dataTables.deepLink.js
  * @author      SpryMedia Ltd
